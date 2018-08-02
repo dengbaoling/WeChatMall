@@ -16,7 +16,7 @@
   优惠券<br/>
   积分换购<br/>
   推客分享、客服<br/>
-  or (可在应用宝搜到)<br/>
+  or (可在小程序搜到)<br/>
   
 ![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou1.jpg)
 ![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou2.jpg)
