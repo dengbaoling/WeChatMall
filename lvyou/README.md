@@ -22,4 +22,4 @@
 ![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou2.jpg)
 ![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou3.jpg)
 ![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou4.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou5.png)
+![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou5.jpg)
