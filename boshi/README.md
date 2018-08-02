@@ -13,7 +13,7 @@
   营销游戏<br/>
   发现(文章)<br/>
   分销、签到、收藏文章<br/>
-  or (可在应用宝搜到)<br/>
+  or (可在小程序搜到)<br/>
   
 ![](https://github.com/hzlshen/WeChatMall/blob/master/boshi/boshi1.jpg)
 ![](https://github.com/hzlshen/WeChatMall/blob/master/boshi/boshi2.jpg)
