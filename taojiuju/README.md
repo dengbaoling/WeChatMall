@@ -1,5 +1,5 @@
-# 开呗养车
-##开呗养车项目截图
+# 一号淘酒居
+##微信小程序一号淘酒居项目截图
 <br/>
 ###主要功能模块:
 <br/>
@@ -17,7 +17,7 @@
   订单列表<br/>
   会员充值<br/>
   店铺地图<br/>
-  or (可在应用宝搜到)<br/>
+  or (可在小程序搜到或扫描二维码)<br/>
   
 ![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu1.jpg)
 ![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu2.jpg)
