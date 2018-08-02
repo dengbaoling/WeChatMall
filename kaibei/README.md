@@ -1,13 +1,19 @@
 # WeChatMall
 ##开呗养车项目截图
+<br/>
 ###主要功能模块:
+<br/>
   购物车下单流程
+  <br/>
   门店流程
+  <br/>
   服务预约流程
-  优惠券流程
-  多品牌店流程
-  基础资料校验设置
-  or (可在应用宝搜到)
+  <br/>
+  优惠券流程<br/>
+  多品牌店流程<br/>
+  选择车型流程<br/>
+  基础资料校验设置<br/>
+  or (可在应用宝搜到)<br/>
   
 ![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei1.png)
 ![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei2.png)
