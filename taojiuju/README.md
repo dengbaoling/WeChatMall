@@ -3,25 +3,26 @@
 <br/>
 ###主要功能模块:
 <br/>
-  购物车下单流程
+  首页动态分类
   <br/>
-  门店流程
+  本周优惠
   <br/>
-  服务预约流程
+  本周热品
   <br/>
-  优惠券流程<br/>
-  多品牌店流程<br/>
-  选择车型流程<br/>
-  基础资料校验设置<br/>
+  本周推荐<br/>
+  团购商城<br/>
+  秒杀商城<br/>
+  拼团砍价<br/>
+  优惠券<br/>
+  订单列表<br/>
+  会员充值<br/>
+  店铺地图<br/>
   or (可在应用宝搜到)<br/>
   
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei1.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei2.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei3.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei4.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei5.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei6.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei7.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei8.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei9.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei10.png)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu1.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu2.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu3.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu4.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu5.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/taojiu6.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/taojiuju/erwei.jpg)
