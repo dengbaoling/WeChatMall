@@ -1,27 +1,25 @@
-# 开呗养车
-##开呗养车项目截图
+# 上海旅游集散
+##微信小程序海旅游集散项目截图
 <br/>
 ###主要功能模块:
 <br/>
-  购物车下单流程
+  首页轮播
   <br/>
-  门店流程
+  旅游拼团
   <br/>
-  服务预约流程
+  线路秒杀
   <br/>
-  优惠券流程<br/>
-  多品牌店流程<br/>
-  选择车型流程<br/>
-  基础资料校验设置<br/>
+  热门线路<br/>
+  美文推荐<br/>
+  攻略<br/>
+  旅游特产<br/>
+  优惠券<br/>
+  积分换购<br/>
+  推客分享、客服<br/>
   or (可在应用宝搜到)<br/>
   
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei1.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei2.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei3.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei4.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei5.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei6.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei7.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei8.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei9.png)
-![](https://github.com/hzlshen/WeChatMall/blob/master/kaibei/kaibei10.png)
+![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou1.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou2.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou3.jpg)
+![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou4.png)
+![](https://github.com/hzlshen/WeChatMall/blob/master/lvyou/lvyou5.png)
